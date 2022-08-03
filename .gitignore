@@ -1,0 +1,4 @@
+# esto ignora especificamente los archivos development en la carpeta mi carpeta
+
+mi-carpeta/
+*.log
